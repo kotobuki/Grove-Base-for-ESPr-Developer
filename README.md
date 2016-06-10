@@ -13,6 +13,8 @@ A bridge between the [**Grove**](http://www.seeedstudio.com/wiki/Category:Grove)
 |PCB||1|
 |J1,J2,J3,J4|Seeed SKU: [320110033](http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=4)|4|
 |JP1|Digi-Key: [S9200-ND](http://www.digikey.com/product-search/en?keywords=952-1842-ND)|2|
+|R1|Digi-Key: [P220KDBCT-ND](http://www.digikey.com/product-search/en?keywords=P220KDBCT-ND)|1|
+|R2|Digi-Key: [P100KDBCT-ND](http://www.digikey.com/product-search/en?keywords=P100KDBCT-ND)|1|
 
 ## How to 'compile'?
 

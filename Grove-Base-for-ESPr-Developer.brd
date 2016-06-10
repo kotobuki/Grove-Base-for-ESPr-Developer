@@ -159,15 +159,15 @@ ESPr
 Developer</text>
 <text x="12.7" y="10.16" size="0.8128" layer="26" ratio="15" rot="MR0">CC: BY-SA
 S. Kobayashi
-April 14, 2016</text>
-<text x="3.81" y="18.0975" size="0.8128" layer="25" font="vector" ratio="15">GND
-3V3
+June 10, 2016</text>
+<text x="3.81" y="18.0975" size="0.8128" layer="25" font="vector" ratio="15">D14
 D12
-D14</text>
-<text x="3.81" y="2.8575" size="0.8128" layer="25" font="vector" ratio="15">GND
 3V3
+GND</text>
+<text x="3.81" y="2.8575" size="0.8128" layer="25" font="vector" ratio="15">TOUT
 NC
-TOUT</text>
+3V3
+GND</text>
 <text x="19.685" y="2.8575" size="0.8128" layer="25" font="vector" ratio="15">GND
 3V3
 D4
